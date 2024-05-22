@@ -1,1 +1,1 @@
-Counter-Application using HTML,CSS,JavaScript and Bootstrap
+Counter-Application using HTML, CSS, JavaScript, and Bootstrap
